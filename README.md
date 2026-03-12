@@ -118,7 +118,7 @@ Several visualizations were generated to better understand the dataset and model
 
 Example visualization:
 
-![Model Accuracy Comparison](figures/model_accuracy_comparison.png)
+![Model Accuracy Comparison](figures/image.png)
 
 ---
 
