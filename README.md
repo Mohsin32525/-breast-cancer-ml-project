@@ -134,4 +134,3 @@ Example visualization:
 
 ---
 
-## Project Structure
